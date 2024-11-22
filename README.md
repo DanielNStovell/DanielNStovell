@@ -16,27 +16,8 @@
 
 ---
 
-### 📊 My Interests in Data (Example Graph):
-Here’s a visual example of how I explore data using Python:  
-<p align="center">
-  <img src="https://fakegraphplaceholder.com/bargraph.png" alt="Data Graph Example" width="400" />
-</p>
-
----
-
 ### 🚀 Projects:
-#### **Projectile Motion App**  
-<p>
-  A Swift-based app to calculate projectile motion under various conditions, incorporating physics principles for accurate simulations.  
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Projectile+Motion+App+Mockup" alt="Projectile Motion App Mockup" />
-</p>
-<p>
-  **Features:**  
-  - Simulates motion under gravity with adjustable conditions.  
-  - Ideal for physics enthusiasts and students.  
-</p>
+#### **ERROR 404: Not Found :(***
 
 ---
 
