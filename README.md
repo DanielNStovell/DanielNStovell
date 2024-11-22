@@ -6,13 +6,13 @@
 ### 👨‍💻 About Me:
 - 🧑‍🎓 I'm 15 and passionate about physics, math, and computer science.  
 - 💻 I love working with data and physics-based equations.
-- 🐍 My main language is Python
+- 🐍 My main language is Python.
 
 ---
 
 ### 🛠️ Skills and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,swift,nodejs,mongodb,javascript" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,swift,javascript,nodejs,mongodb" alt="Skills Icons" />
 </p>
 
 ---
