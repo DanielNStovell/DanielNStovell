@@ -30,7 +30,7 @@
 ---
 
 ### 🥇 Achievements:
-- 💸 15000+ Robux via commissions
+- 💸 15000+ Robux (~190$) via commissions
 - Yeah I don't have anything else
 
 ---
