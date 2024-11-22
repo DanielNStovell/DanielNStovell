@@ -5,7 +5,8 @@
 
 ### 👨‍💻 About Me:
 - 🧑‍🎓 I'm 15 and passionate about physics, math, and computer science.  
-- 💻 I love working with data, especially in **Python**, but I also use **C++** and **Swift** for projects like mobile apps.  
+- 💻 I love working with data and physics-based equations.
+- 🐍 My main language is Python
 
 ---
 
