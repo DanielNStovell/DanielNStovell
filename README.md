@@ -1,37 +1,49 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A High School Student with a Passion for Software Development</h3>
+<h3 align="center">A High School Student Aspiring to Be a Software Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me:
-- I'm a high school student aspiring to become a software developer.  
-- I enjoy physics, math, and computer science.  
-- I love working with data and raw programming, especially in Python, but I also dabble in C++ and Swift.  
+- 🧑‍🎓 I'm 15 and passionate about physics, math, and computer science.  
+- 💻 I love working with data, especially in **Python**, but I also use **C++** and **Swift** for projects like mobile apps.  
 
 ---
 
 ### 🛠️ Skills and Tools:
-- **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,swift" alt="Skills Icons" />
+</p>
 
-- **Areas of Interest:**  
-  - Data Analysis  
-  - Mobile App Development  
+---
+
+### 📊 My Interests in Data (Example Graph):
+Here’s a visual example of how I explore data using Python:  
+<p align="center">
+  <img src="https://fakegraphplaceholder.com/bargraph.png" alt="Data Graph Example" width="400" />
+</p>
 
 ---
 
 ### 🚀 Projects:
-- **Projectile Motion App**  
-  Developed a Swift-based app to calculate projectile motion under various conditions, incorporating physics principles for accurate simulations.  
+#### **Projectile Motion App**  
+<p>
+  A Swift-based app to calculate projectile motion under various conditions, incorporating physics principles for accurate simulations.  
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/400x200?text=Projectile+Motion+App+Mockup" alt="Projectile Motion App Mockup" />
+</p>
+<p>
+  **Features:**  
+  - Simulates motion under gravity with adjustable conditions.  
+  - Ideal for physics enthusiasts and students.  
+</p>
 
 ---
 
 ### 🌟 Current Goals:
-- Expand my knowledge of programming and dive deeper into data analysis.  
-- Continue working on physics-related programming projects.  
+- 📈 Dive deeper into **data analysis** and physics-related projects.  
+- 🛠️ Create innovative tools to bridge physics and programming.  
 
 ---
 
-Feel free to explore my repositories to see what I’m working on!  
+Feel free to explore my repositories and reach out with feedback!  
