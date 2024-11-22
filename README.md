@@ -11,7 +11,7 @@
 
 ### 🛠️ Skills and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,swift" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,swift,nodejs,mongodb,javascript" alt="Skills Icons" />
 </p>
 
 ---
