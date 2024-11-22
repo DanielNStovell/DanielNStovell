@@ -17,7 +17,10 @@
 ---
 
 ### 🚀 Projects:
-#### **ERROR 404: Not Found :(**
+#### **Error 404: Not Found :(**
+<p>
+  I do not have any projects to show yet
+</p>
 
 ---
 
