@@ -17,10 +17,18 @@
 ---
 
 ### 🚀 Projects:
-#### **Error 404: Not Found :(**
-<p>
-  I do not have any projects to show yet
-</p>
+
+#### **Discord Bots**
+- **ChatGPT-Powered Girlfriend Bot**  
+  Using the **ChatGPT API**, I created a fun Discord bot that acts as the girlfriend I wished I had.  
+- **Player Data Bot**  
+  Designed a bot to store and manage player data, such as their balances, using **MongoDB**, **Node.js**, and **JavaScript**.  
+
+---
+
+### 🥇 Achievements:
+- 💸 15000+ Robux via commissions
+- Yeah I don't have anything else
 
 ---
 
