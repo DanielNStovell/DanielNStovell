@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Skills and Tools:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,swift" alt="Skills Icons" />
 </p>
 
