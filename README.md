@@ -35,10 +35,4 @@
 
 ---
 
-### 🌟 Current Goals:
-- 📈 Dive deeper into **data analysis** and physics-related projects.  
-- 🛠️ Create innovative tools to bridge physics and programming.  
-
----
-
-Feel free to explore my repositories and reach out with feedback!  
+:)
