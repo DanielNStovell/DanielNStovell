@@ -34,5 +34,3 @@
 - Yeah I don't have anything else
 
 ---
-
-:)
