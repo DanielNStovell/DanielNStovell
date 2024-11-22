@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Projects:
-#### **ERROR 404: Not Found :(***
+#### **ERROR 404: Not Found :(**
 
 ---
 
