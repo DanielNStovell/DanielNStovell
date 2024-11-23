@@ -22,7 +22,7 @@
 #### **Discord Bots**
 
 - **ChatGPT-Powered Girlfriend Bot**  
-  Using the **ChatGPT API**, I created a fun Discord bot that acts as the girlfriend I wished I had.
+  Using the **ChatGPT API**, I created a Discord bot that acts as the girlfriend I wish I had.
   
 - **Casino Bot**  
   Designed a bot to act as a casino, storing and managing player data, such as their balances, using **MongoDB**, **Node.js**, and **JavaScript**.  
