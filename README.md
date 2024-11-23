@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🧑‍🎓 I'm 15 and passionate about physics, math, and computer science.  
+- 🧑‍🎓 I'm 15 and enjoy anything related to physics, math, and computer science.  
 - 💻 I love working with data and physics-based equations.
 - 🐍 My main language is Python.
 
