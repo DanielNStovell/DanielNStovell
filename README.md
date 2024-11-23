@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A High School Student Aspiring to Be a Software Developer</h3>
+<h3 align="center">A High School Student Determind to Be a Software Developer</h3>
 
 ---
 
@@ -30,7 +30,6 @@
 ---
 
 ### 🥇 Achievements:
-- 💸 15000+ Robux (~190$) via commissions
-- Yeah I don't have anything else
+- Error 404: Not Found :(
 
 ---
