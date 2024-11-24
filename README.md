@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A High School Student Determind to Be a Software Developer</h3>
-
----
 
 ### 👨‍💻 About Me:
 - 🧑‍🎓 I'm 15 and enjoy anything related to physics, math, and computer science.  
