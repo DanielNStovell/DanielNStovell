@@ -9,7 +9,7 @@
 
 ### 🛠️ Skills and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,swift,javascript,nodejs,mongodb" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,mongodb" alt="Skills Icons" />
 </p>
 
 ---
