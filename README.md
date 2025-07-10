@@ -47,7 +47,7 @@ Python • Flask • JavaScript • HTML/CSS • Lua • Git • NumPy
 
 - GitHub: [@DanielNStovell](https://github.com/DanielNStovell)  
 - LinkedIn: [@DanielStovell](https://linkedin.com/in/daniel-stovell-76b6a2295)  
-- Email: *(available upon request)*
+- Email: danielnstovell@gmail.com
 
 ---
 
