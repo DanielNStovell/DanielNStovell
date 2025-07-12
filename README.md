@@ -60,3 +60,9 @@ Python • Flask • JavaScript • HTML/CSS • Lua • Git • NumPy
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNStovell&layout=compact&theme=radical" width="350" />
   </p>
 </details>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielNStovell.DanielNStovell" alt="visitor badge"/>
+</p>
