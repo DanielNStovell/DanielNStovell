@@ -24,9 +24,6 @@
 
 - 🌐 **OverCode** — Upcoming...
 
-- 🧲 **BPhO 2024 Project** — Built a swift simulation of projectile motion
-  - Modeled parabolic motion under air resistance, gravity and planetary conditions
-
 ---
 
 ### 🧰 Tech Stack
