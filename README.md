@@ -12,7 +12,7 @@
 
 ### 🏆 Competitive Achievements
 
-- 🥇 **Codyssi 2024** — 1st globally (student category) in international coding competition  
+- 🥇 **Codyssi 2025** — 1st globally (student category) in international coding competition  
 - 🥇 **Coding Quest 2024** — Top 2.9% (60th / 2,083)
 - 🧠 **PERSE Computational Challenge 2025** — Top 2.5% (129th / 5,650)  
 - 🧪 **BPhO Computational Challenge 2024** — Silver Award  
