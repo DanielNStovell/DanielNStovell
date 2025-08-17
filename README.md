@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 16-year-old developer focused on competitive programming w/ python
+- 16-year-old developer who enjoys competitive programming with Python
 - Enjoys building software that solves complex problems
 
 ---
