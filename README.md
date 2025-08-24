@@ -43,7 +43,7 @@
 ### 🧭 Leadership & Initiatives
 
 - 💻 **Organizer, Internal School Coding Competition** — Led a student coding contest with 23 participants, handling problem design and event coordination
-- 🗳️ **Elected House Representative (Yr 11)** — Coordinated inter-house events and delivered announcements to audiences of 300+ students and staff
+- 🗳️ **Elected House Representative (Yr 11)** — Coordinated house events and delivered announcements to audiences of 300+ students and staff
 - 🎓 **Primary Mentor (Yr 11)** — Provided tutoring support in English and Math to younger students
 - ♟️ **Chess Club Founder & Leader** — Founded and ran weekly chess club sessions with student matchups and training games
 
