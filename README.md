@@ -14,7 +14,8 @@
 
 - 🥇 **Codyssi 2025** — Top 0.6% (5th / ~900) (1st in student category)
 - 🥇 **Coding Quest 2024** — Top 2.9% (60th / 2,083)
-- 🧠 **PERSE Computational Challenge 2025** — Top 2.5% (129th / 5,650)  
+- 🧠 **PERSE Computational Challenge 2025** — Top 2.5% (129th / 5,650)
+- 🥇 **BPhO Computational Challenge 2025** - Gold Award
 - 🥈 **BPhO Computational Challenge 2024** — Silver Award  
 - 🥇 **UKMT IMC 2025** — Gold + Best in School  
 
