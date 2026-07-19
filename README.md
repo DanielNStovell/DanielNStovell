@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Daniel 🧠</h1>
-<h3 align="center">16 y/o • Competitive Programmer</h3>
+<h3 align="center">17 y/o • Competitive Programmer</h3>
 
 ---
 
