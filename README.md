@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 16-year-old developer who enjoys competitive programming with Python
+- 17-year-old developer who enjoys competitive programming with Python
 - Enjoys building software that solves complex problems
 
 ---
@@ -18,12 +18,6 @@
 - 🥇 **BPhO Computational Challenge 2025** - Gold Award
 - 🥈 **BPhO Computational Challenge 2024** — Silver Award  
 - 🥇 **UKMT IMC 2025** — Gold + Best in School  
-
----
-
-### 🚀 Notable Projects
-
-- 🌐 **OverCode** — Upcoming...
 
 ---
 
@@ -43,6 +37,7 @@
 
 ### 🧭 Leadership & Initiatives
 
+- 🎓 **Deputy Head Student (Yr 12)** - Elected to represent the student body, working alongside staff on school-wide initiatives and events
 - 💻 **Organizer, Internal School Coding Competition** — Led a student coding contest with 23 participants, handling problem design and event coordination
 - 🗳️ **Elected Deputy House Representative (Yr 11)** — Coordinated house events and delivered announcements to audiences of 300+ students and staff
 - 🎓 **Primary Mentor (Yr 11)** — Provided tutoring support in English and Math to younger students
