@@ -40,4 +40,4 @@ A-Level student studying Mathematics, Further Mathematics, Computer Science and 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/danielstovell/) · [Email](mailto:danielnstovell@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danielstovell/) · [Email](mailto:danielstovell10@gmail.com)
