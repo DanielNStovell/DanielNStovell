@@ -1,69 +1,43 @@
-<h1 align="center">Hi, I'm Daniel 🧠</h1>
-<h3 align="center">17 y/o • Competitive Programmer</h3>
+<h1 align="center">Daniel Stovell</h1>
+<p align="center">Mathematics · Computer Science · Physics</p>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-- 17-year-old developer who enjoys competitive programming with Python
-- Enjoys building software that solves complex problems
-
----
-
-### 🏆 Competitive Achievements
-
-- 🥇 **Codyssi 2025** — Top 0.6% (5th / ~900) (1st in student category)
-- 🥇 **Coding Quest 2024** — Top 2.9% (60th / 2,083)
-- 🧠 **PERSE Computational Challenge 2025** — Top 2.5% (129th / 5,650)
-- 🥇 **BPhO Computational Challenge 2025** - Gold Award
-- 🥈 **BPhO Computational Challenge 2024** — Silver Award  
-- 🥇 **UKMT IMC 2025** — Gold + Best in School  
+A-Level student studying Mathematics, Further Mathematics, Computer Science and Physics, with a focus on problem-solving and numerical programming. Placed in national and international mathematics and programming competitions.
 
 ---
 
-### 🧰 Tech Stack
+## Competitions
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
----
-
-### 🧭 Leadership & Initiatives
-
-- 🎓 **Deputy Head Student (Yr 12)** - Elected to represent the student body, working alongside staff on school-wide initiatives and events
-- 💻 **Organizer, Internal School Coding Competition** — Led a student coding contest with 23 participants, handling problem design and event coordination
-- 🗳️ **Elected Deputy House Representative (Yr 11)** — Coordinated house events and delivered announcements to audiences of 300+ students and staff
-- 🎓 **Primary Mentor (Yr 11)** — Provided tutoring support in English and Math to younger students
-- ♟️ **Chess Club Founder & Leader** — Founded and ran weekly chess club sessions with student matchups and training games
-
----
-### 📫 Contact
-
-- GitHub: [@DanielNStovell](https://github.com/DanielNStovell)  
-- LinkedIn: [@DanielStovell](https://linkedin.com/in/daniel-stovell-76b6a2295)  
-- Email: danielnstovell@gmail.com
+| Year | Competition | Result |
+|------|-------------|--------|
+| 2025 | Codyssi | 4 / ~900 |
+| 2025 | UKMT Intermediate Mathematical Challenge | Gold, Best in School |
+| 2025 | BPhO Computational Challenge | Gold |
+| 2025 | PERSE Computational Challenge | 129 / 5,650 |
+| 2024 | BPhO Computational Challenge | Silver |
+| 2024 | Coding Quest | 60 / 2,083 |
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+## Technical Skills
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielNStovell&show_icons=true&theme=radical" width="500" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNStovell&layout=compact&theme=radical" width="350" />
-  </p>
-</details>
+**Languages:** Python, JavaScript, HTML/CSS
+**Libraries and tools:** NumPy, Flask, Git
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielNStovell.DanielNStovell" alt="visitor badge"/>
-</p>
+## Leadership
+
+- **Deputy Head Student**, Year 12: represented the student body on school-wide initiatives alongside staff
+- **Organiser, School Coding Competition**: designed problems and ran a contest with 23 participants
+- **Deputy House Representative**, Year 11: coordinated house events and addressed audiences of 300+
+- **Founder, Chess Club**: established and ran weekly sessions
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/danielstovell/) · [Email](mailto:danielnstovell@gmail.com)
